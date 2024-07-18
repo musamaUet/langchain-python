@@ -9,6 +9,7 @@ python-dotenv = "*"
 openai = "*"
 langchain-community = "*"
 langchain-openai = "*"
+langchain-core = "*"
 
 [dev-packages]
 
